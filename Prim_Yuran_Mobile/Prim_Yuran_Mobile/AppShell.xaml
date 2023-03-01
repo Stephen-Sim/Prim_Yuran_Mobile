@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:auth="clr-namespace:Prim_Yuran_Mobile.Views.Auth"
+       xmlns:home="clr-namespace:Prim_Yuran_Mobile.Views.Home"
+       x:Class="Prim_Yuran_Mobile.AppShell">
+
+    <TabBar>
+        <Tab Title="Home" Icon="home.png" Route="HomePage">
+            <ShellContent  ContentTemplate="{DataTemplate home:HomePage}"/>
+        </Tab>
+        <!--<Tab Title="Trip" Icon="request.png" Route="TripPage">
+            <ShellContent ContentTemplate="{DataTemplate trip:TripPage}"/>
+        </Tab>
+        <Tab Title="Menu" Icon="menu.png" Route="MenuPage">
+            <ShellContent ContentTemplate="{DataTemplate menu:MenuPage}"/>
+        </Tab>-->
+    </TabBar>
+
+    <TabBar>
+        <ShellContent Route="LoginPage" ContentTemplate="{DataTemplate auth:LoginPage}" />
+    </TabBar>
+</Shell>

@@ -1,0 +1,17 @@
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\bin\Debug\netstandard2.0\Prim_Yuran_Mobile.deps.json
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\bin\Debug\netstandard2.0\Prim_Yuran_Mobile.dll
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\bin\Debug\netstandard2.0\Prim_Yuran_Mobile.pdb
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.csproj.AssemblyReference.cache
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\Auth\LoginPage.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.AssemblyInfoInputs.cache
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.AssemblyInfo.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.csproj.CoreCompileInputs.cache
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.dll
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\refint\Prim_Yuran_Mobile.dll
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Prim_Yuran_Mobile.pdb
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\ref\Prim_Yuran_Mobile.dll
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\Home\HomePage.xaml.g.cs
