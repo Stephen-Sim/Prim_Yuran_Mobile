@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jsL9abOOpxawxCtV+PYq12J70dLwpMYHYE5K2sfnyBw7Ty6AeB+EMH2XpIDTW/zvzHGnSKQuPq2loziUyzTeow==",
+  "dgSpecHash": "ecHdUV2t2HBsDkEpybRL83biRyhRBPMkKoTi3Tl3X+D0iLPG7neYS+MvXTi9Huu6D6vi4Gol1iK0okMTcnVcGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\simsh\\Desktop\\Prim-Yuran\\Prim_Yuran_Mobile\\Prim_Yuran_Mobile\\Prim_Yuran_Mobile.Android\\Prim_Yuran_Mobile.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\simsh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

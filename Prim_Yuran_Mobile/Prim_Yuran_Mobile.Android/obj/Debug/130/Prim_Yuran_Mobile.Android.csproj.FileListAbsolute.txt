@@ -636,3 +636,11 @@ C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran
 C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\menu.png
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\history.png
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\home.png
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\profile.png
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\prim_logo.png
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\bill.png
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile.Android\obj\Debug\130\res\drawable\fee.png

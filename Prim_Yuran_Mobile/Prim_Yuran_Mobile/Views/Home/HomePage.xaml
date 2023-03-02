@@ -1,12 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Prim_Yuran_Mobile.Views.Home.HomePage">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:models="clr-namespace:Prim_Yuran_Mobile.Models"
+             x:Class="Prim_Yuran_Mobile.Views.Home.HomePage" Title="Yuran" >
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <Grid RowDefinitions="50, *, 40" Margin="8">
+            <Picker x:Name="SchoolPicker" Title="Sila Pilih Sekolah" SelectedIndexChanged="SchoolPicker_SelectedIndexChanged"/>
+
+            <ListView Grid.Row="1" x:Name="FeesListView" HasUnevenRows="True"
+                      IsGroupingEnabled="True">
+
+                <ListView.GroupHeaderTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding Key}" FontSize="12" FontAttributes="Bold"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.GroupHeaderTemplate>
+
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="models:Fee">
+                        <ViewCell>
+                            <Frame BorderColor="Black" Padding="5" Margin="5" HeightRequest="100" BackgroundColor="LightGray">
+                                <Grid ColumnDefinitions="50, *, 30">
+                                    <Image Source="fee"/>
+                                    
+                                    <StackLayout Grid.Column="1" VerticalOptions="CenterAndExpand">
+                                        <Label Text="{Binding name}" FontAttributes="Bold"/>
+                                        <Label Text="{Binding price}"/>
+                                    </StackLayout>
+
+                                    <CheckBox Grid.Column="2" CheckedChanged="CheckBox_CheckedChanged" BindingContext="{Binding .}"/>
+                                </Grid>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Grid Grid.Row="2" ColumnDefinitions="*, 150">
+                <Label FontAttributes="Bold" FontSize="14" HorizontalOptions="StartAndExpand" x:Name="TotalLabel" VerticalOptions="CenterAndExpand"/>
+                <Button x:Name="PayButton" Grid.Column="1" WidthRequest="20" Text="Terus Bayar" CornerRadius="50" BackgroundColor="#852aff" TextColor="White" Clicked="PayButton_Clicked"/>
+            </Grid>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

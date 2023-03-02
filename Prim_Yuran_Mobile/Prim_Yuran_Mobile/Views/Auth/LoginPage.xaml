@@ -2,13 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Prim_Yuran_Mobile.Views.Auth.LoginPage"
-             NavigationPage.HasNavigationBar="False">
+             Shell.NavBarIsVisible="False">
     <ContentPage.Content>
         <StackLayout VerticalOptions="CenterAndExpand">
-            <Label Text="Login" FontSize="Large" HorizontalOptions="Center" Margin="0,50,0,0"/>
+            <Image Source="prim_logo" HeightRequest="140"/>
+            <!--<Label Text="Login" FontSize="Large" HorizontalOptions="Center" Margin="0,50,0,0"/>-->
             <Entry x:Name="PhoneOrEmailEntry" Placeholder="Nombor Telefon atau E-mel" Margin="30,50,30,0"/>
             <Entry x:Name="PasswordEntry" Placeholder="Kata Laluan" Margin="30,10,30,0" IsPassword="True"/>
-            <Button Text="Login" Margin="30,50,30,0" CornerRadius="50" Clicked="OnLoginButtonClicked"/>
+            <Button Text="Login" Margin="30,50,30,0" CornerRadius="50" Clicked="OnLoginButtonClicked" BackgroundColor="#852aff" TextColor="White"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

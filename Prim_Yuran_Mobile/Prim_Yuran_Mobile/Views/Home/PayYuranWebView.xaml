@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prim_Yuran_Mobile.Views.Home.PayYuranWebView">
+    <ContentPage.Content>
+        <Grid RowDefinitions="*">
+            <WebView x:Name="webpageview" Grid.Row="0" Margin="10" Navigating="webpageview_Navigating"></WebView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

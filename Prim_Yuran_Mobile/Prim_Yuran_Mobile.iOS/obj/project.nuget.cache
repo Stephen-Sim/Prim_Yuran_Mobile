@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Kev3I6G82NqthBhd5qtHVhbqwtu5/EnMR/uqpq/a0vCzx7reyZlvqsAM0A7f5MJHIJRpvIHRW75iMLlDV+ee7g==",
+  "dgSpecHash": "Ssdp62wdryegSUOyMBzfIk7y1/zObwnVvABJ8CphFQ+c0JTBUSTfI4vOIxHYukkaVTZlqeqsjcJIxTUU0Q2+4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\simsh\\Desktop\\Prim-Yuran\\Prim_Yuran_Mobile\\Prim_Yuran_Mobile\\Prim_Yuran_Mobile.iOS\\Prim_Yuran_Mobile.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\simsh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

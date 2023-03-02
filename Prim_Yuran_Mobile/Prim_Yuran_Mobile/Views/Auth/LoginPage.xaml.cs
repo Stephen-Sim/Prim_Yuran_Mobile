@@ -26,6 +26,7 @@ namespace Prim_Yuran_Mobile.Views.Auth
 
             if (result == true)
             {
+                PhoneOrEmailEntry.Text = string.Empty; PasswordEntry.Text = string.Empty;
                 await DisplayAlert("Alert", "Successfully Login.", "Ok");
                 await Shell.Current.GoToAsync($"//HomePage");
             }

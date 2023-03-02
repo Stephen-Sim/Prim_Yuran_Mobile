@@ -15,3 +15,7 @@ C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran
 C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\ref\Prim_Yuran_Mobile.dll
 C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\Home\HomePage.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\Menu\MenuPage.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\History\HistoryPage.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\History\ReceiptWebView.xaml.g.cs
+C:\Users\simsh\Desktop\Prim-Yuran\Prim_Yuran_Mobile\Prim_Yuran_Mobile\Prim_Yuran_Mobile\obj\Debug\netstandard2.0\Views\Home\PayYuranWebView.xaml.g.cs

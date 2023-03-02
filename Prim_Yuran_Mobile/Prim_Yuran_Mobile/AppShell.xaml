@@ -3,18 +3,21 @@
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:auth="clr-namespace:Prim_Yuran_Mobile.Views.Auth"
        xmlns:home="clr-namespace:Prim_Yuran_Mobile.Views.Home"
-       x:Class="Prim_Yuran_Mobile.AppShell">
+       xmlns:history="clr-namespace:Prim_Yuran_Mobile.Views.History"
+       xmlns:menu="clr-namespace:Prim_Yuran_Mobile.Views.Menu"
+       x:Class="Prim_Yuran_Mobile.AppShell"
+       BackgroundColor="#852aff" TitleColor="White" UnselectedColor="Black">
 
     <TabBar>
         <Tab Title="Home" Icon="home.png" Route="HomePage">
             <ShellContent  ContentTemplate="{DataTemplate home:HomePage}"/>
         </Tab>
-        <!--<Tab Title="Trip" Icon="request.png" Route="TripPage">
-            <ShellContent ContentTemplate="{DataTemplate trip:TripPage}"/>
+        <Tab Title="Sejarah" Icon="history.png" Route="HistoryPage">
+            <ShellContent ContentTemplate="{DataTemplate history:HistoryPage}"/>
         </Tab>
         <Tab Title="Menu" Icon="menu.png" Route="MenuPage">
             <ShellContent ContentTemplate="{DataTemplate menu:MenuPage}"/>
-        </Tab>-->
+        </Tab>
     </TabBar>
 
     <TabBar>

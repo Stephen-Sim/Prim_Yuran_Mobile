@@ -6,6 +6,9 @@ namespace Prim_Yuran_Mobile.Services
 {
     public class YuranAPI
     {
-        public static readonly string APIURL = "http://10.105.13.82:8000/api/mobile/yuran/";
+        // public static readonly string URL = "http://10.105.13.82:8000/";
+        public static readonly string URL = "https://prim.my/";
+
+        public static readonly string APIURL = $"{URL}api/mobile/yuran/";
     }
 }
